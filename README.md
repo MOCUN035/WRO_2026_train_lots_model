@@ -1,0 +1,2 @@
+# WRO_2026_train_lots_model
+訓練抽籤機器人的程式
